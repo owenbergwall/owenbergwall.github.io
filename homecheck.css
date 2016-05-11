@@ -1,0 +1,138 @@
+*{ margin: 0; padding: 0;
+}
+
+h1 {
+color: #000000;
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 48px;
+}
+
+header{
+  background-image: url(images/boatphone1.jpg);
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ height: 700px;
+ font-size: 36px;
+}
+
+header h2{
+  font-size: 48;
+}
+
+header h3{
+  font-size: 40;
+}
+
+.main {
+  min-height: 700px;
+}
+
+.upper_left_text{
+  padding-left: 25px;
+  padding-top: 20px;
+}
+
+.right_text{
+  text-align: right;
+  padding-top: 60px;
+  padding-right: 50px;
+  padding-left: 300px;
+}
+
+.left_text{
+  padding-bottom: 50px;
+  padding-right: 500px;
+  padding-left: 50px;
+}
+
+.feature1 {
+  min-height: 700px;
+  background: linear-gradient(0deg, rgba(165,39,13,1) 0%, rgba(255,255,255,1) 0%, rgba(78,87,70,1) 100%);
+}
+
+.phone1{
+  padding-left: 250px;
+  padding-bottom: 20px;
+}
+
+.feature2 {
+  min-height: 700px;
+  background: linear-gradient(0deg, rgba(165,39,13,1) 0%, rgba(255,255,255,1) 0%, rgba(118,145,166,1) 100%);
+  max-height: 700;
+}
+
+.phone2 {
+  padding-left: 250px;
+  padding-bottom: 20px;
+}
+
+.feature3 {
+  min-height: 700px;
+  background: linear-gradient(0deg, rgba(165,39,13,1) 0%, rgba(255,255,255,1) 0%, rgba(116,125,71,1) 100%);
+}
+
+.phone3 {
+  padding-left: 250px;
+  padding-bottom: 20px;
+}
+
+.feature4 {
+  min-height: 700px;
+  background: linear-gradient(0deg, rgba(165,39,13,1) 0%, rgba(255,255,255,1) 0%, rgba(158,142,119,1) 100%);
+}
+
+.phone4 {
+  padding-left: 250px;
+  padding-bottom: 20px;
+}
+
+h2{
+  font-family: "AppleGothic", sans-serif;
+  font-size: 48px;
+}
+
+h3{
+  font-family: 'Amethysta', serif;
+  font-size: 36px;
+}
+
+.footer {
+   height: 500px;
+   background-image: url("images/homecheckfinal pic.jpeg");
+   background-size: cover;
+   padding-bottom: 400px;
+   padding right: 200px;
+}
+
+.footer h2 {
+  margin-bottom: 250px;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+.footer h3{
+  padding-left: 300px;
+  margin-bottom: 300px;
+}
+
+.push-01 {
+  margin: 0 0 0 30px;
+  padding-top: 20px;
+}
+
+.push-02 {
+  margin: 200px 0 0 200px;
+}
+
+.push-03 {
+  margin: 20px 0 0 500px;
+  padding-top: 200px;
+}
+
+img.appstore {
+display: inline-block;
+}
