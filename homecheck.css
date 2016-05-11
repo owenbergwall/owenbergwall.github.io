@@ -10,7 +10,7 @@ font-size: 48px;
 }
 
 header{
-  background-image: url(images/boatphone1.jpg);
+  background-image: url(boatphone1.jpg);
   -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
